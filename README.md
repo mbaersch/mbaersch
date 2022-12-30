@@ -4,7 +4,7 @@ Hi 👋 My name is Markus Baersch
 Analytics Nerd | Technical Marketer | Developer | Speaker
 ---------------------------------------------------------
 
-I am a former developer and software project manager who moved from desktop to the web. My focus are **all things analytics** and data quality. I love to try new things, play with cloud services and build **Custom Templates** for (client-/server-side) Google Tag Manager. You will find a lot of them here.   
+I am a former developer and software project manager who moved from desktop to the web. My focus are 📊 **all things analytics** and data quality. I love to try new things, play with cloud services and build **Custom Templates** for (client-/server-side) Google Tag Manager. You will find a lot of them here and a few more in Gists that belong to my 📖 [e-book about building custom GTM templates](https://www.markus-baersch.de/gtm-server-templates-book/). 
 
 * 🌍  I'm based in Mönchengladbach, Germany
 * ✉️  You can contact me at [mail@markus-baersch.de](mailto:mail@markus-baersch.de)
